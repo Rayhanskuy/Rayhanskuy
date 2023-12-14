@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://juduul.my.canva.site/prakalgo"  />
+  <img height="200" src="https://scontent.fdjb3-1.fna.fbcdn.net/v/t39.30808-6/409782061_122124187562084536_5253513537163050238_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_ohc=V0TTrsWhSC4AX_rbuFK&_nc_oc=AQm6m3jgD813ubtjiXGXWEipwgMrzvZCVTh22S_UqbjrzpBRtslPpFHrgqID1fa83W4&_nc_ht=scontent.fdjb3-1.fna&oh=00_AfBzBh5axu-hSI2uLDrn79_5q_qFkwscH1BwcDHNVkRJzw&oe=6580BE4D"  />
 </div>
 
 ###
